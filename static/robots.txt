@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: http://www.projectnash.com/sitemap.xml
+Sitemap: /sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
